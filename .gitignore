@@ -1,0 +1,16 @@
+# Original, unsanitized exports (contain personal sheet and credential IDs)
+.original/
+
+# Secrets
+.env
+*.env
+
+# n8n local data
+.n8n/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
